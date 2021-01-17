@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on HushVine Blog</title>
-    <link>http://blog.hushvine.com/post/feed/</link>
+    <link>https://hushvine.com/post/feed/</link>
     <description>Recent content in Post-rsses on HushVine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 02 Dec 2011 14:13:37 +0000</lastBuildDate>
-    <atom:link href="http://blog.hushvine.com/post/feed/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hushvine.com/post/feed/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HushVine Powering Twitter Coverage of #budget12 on The Irish Examiner</title>
-      <link>http://blog.hushvine.com/2011/12/02/hushvine-powering-twitter-coverage-of-budget12-on-the-irish-examiner/</link>
+      <link>https://hushvine.com/2011/12/02/hushvine-powering-twitter-coverage-of-budget12-on-the-irish-examiner/</link>
       <pubDate>Fri, 02 Dec 2011 14:13:37 +0000</pubDate>
       
-      <guid>http://blog.hushvine.com/2011/12/02/hushvine-powering-twitter-coverage-of-budget12-on-the-irish-examiner/</guid>
-      <description>&lt;p&gt;Back in October we had great success with powering the Twitter coverage of both #aras11 and #DWS7. In particular, our solution on the &lt;a href=&#34;http://irishexaminer.com&#34;&gt;irishexaminer.com&lt;/a&gt; site worked beautifully. So we were delighted when they contacted us about doing a solution for next Monday&amp;#8217;s/Tuesday&amp;#8217;s Irish Budget too.&lt;/p&gt;
+      <guid>https://hushvine.com/2011/12/02/hushvine-powering-twitter-coverage-of-budget12-on-the-irish-examiner/</guid>
+      <description>&lt;p&gt;Back in October we had great success with powering the Twitter coverage of both #aras11 and #DWS7. In particular, our solution on the &lt;a href=&#34;https://irishexaminer.com&#34;&gt;irishexaminer.com&lt;/a&gt; site worked beautifully. So we were delighted when they contacted us about doing a solution for next Monday&amp;#8217;s/Tuesday&amp;#8217;s Irish Budget too.&lt;/p&gt;
 
-&lt;p&gt;We are now live on &lt;a href=&#34;http://budget.irishexaminer.com/&#34;&gt;budget.irishexaminer.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We are now live on &lt;a href=&#34;https://budget.irishexaminer.com/&#34;&gt;budget.irishexaminer.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://budget.irishexaminer.com/&#34;&gt;&lt;img class=&#34;size-full wp-image-37 aligncenter&#34; src=&#34;http://blog.hushvine.com/files/2011/12/examiner_budget_hushvine_02.png&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;714&#34; srcset=&#34;http://hushvine.com/theblog/files/2011/12/examiner_budget_hushvine_02.png 450w, http://hushvine.com/theblog/files/2011/12/examiner_budget_hushvine_02-189x300.png 189w&#34; sizes=&#34;(max-width: 450px) 100vw, 450px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://budget.irishexaminer.com/&#34;&gt;&lt;img class=&#34;size-full wp-image-37 aligncenter&#34; src=&#34;https://hushvine.com/files/2011/12/examiner_budget_hushvine_02.png&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;714&#34; srcset=&#34;https://hushvine.com/theblog/files/2011/12/examiner_budget_hushvine_02.png 450w, https://hushvine.com/theblog/files/2011/12/examiner_budget_hushvine_02-189x300.png 189w&#34; sizes=&#34;(max-width: 450px) 100vw, 450px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;As before, our system is pulling in a wide range of Tweets, not just some dumb hashtag, then removing the irrelevant ones and giving you a rich Twitter experience as you read the news stories on &lt;a href=&#34;http://budget.irishexaminer.com/&#34;&gt;The Irish Examiner site&lt;/a&gt;. Of course you can Tweet directly from all of the pages too.&lt;/p&gt;
+&lt;p&gt;As before, our system is pulling in a wide range of Tweets, not just some dumb hashtag, then removing the irrelevant ones and giving you a rich Twitter experience as you read the news stories on &lt;a href=&#34;https://budget.irishexaminer.com/&#34;&gt;The Irish Examiner site&lt;/a&gt;. Of course you can Tweet directly from all of the pages too.&lt;/p&gt;
 
 &lt;p&gt;We&amp;#8217;ll be releasing the next version of the platform in a few weeks and it will provide an even more intelligent, controllable and rich experience both for users and media businesses.&lt;/p&gt;
 </description>
@@ -28,17 +28,17 @@
     
     <item>
       <title>Track #DWS7 on iPhone and other smartphones too</title>
-      <link>http://blog.hushvine.com/2011/10/27/track-dws7-on-iphone-and-other-smartphones-too/</link>
+      <link>https://hushvine.com/2011/10/27/track-dws7-on-iphone-and-other-smartphones-too/</link>
       <pubDate>Thu, 27 Oct 2011 06:50:34 +0000</pubDate>
       
-      <guid>http://blog.hushvine.com/2011/10/27/track-dws7-on-iphone-and-other-smartphones-too/</guid>
-      <description>&lt;p&gt;The approval time for the App Store means it&amp;#8217;s impossible to do an impromptu app on iOS like our Android one for &lt;a href=&#34;http://www.dublinwebsummit.com&#34;&gt;Dublin Web Summit&lt;/a&gt;. But we didn&amp;#8217;t want to leave all other smartphone users out in the cold so we&amp;#8217;ve created a mobile-friendly micro-site. It works on Android, iPhone 4, iPhone 3, iPad and some Blackberrys. We&amp;#8217;re still waiting for confirmation on Nokia smartphones.&lt;/p&gt;
+      <guid>https://hushvine.com/2011/10/27/track-dws7-on-iphone-and-other-smartphones-too/</guid>
+      <description>&lt;p&gt;The approval time for the App Store means it&amp;#8217;s impossible to do an impromptu app on iOS like our Android one for &lt;a href=&#34;https://www.dublinwebsummit.com&#34;&gt;Dublin Web Summit&lt;/a&gt;. But we didn&amp;#8217;t want to leave all other smartphone users out in the cold so we&amp;#8217;ve created a mobile-friendly micro-site. It works on Android, iPhone 4, iPhone 3, iPad and some Blackberrys. We&amp;#8217;re still waiting for confirmation on Nokia smartphones.&lt;/p&gt;
 
 &lt;p&gt;Remember, this is doing a lot more than showing you #DWS7 hashtag tweets! Just check this screenshot.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://hushvine.com/theblog/files/2011/10/shot_000019.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-32&#34; title=&#34;shot_000019&#34; src=&#34;http://hushvine.com/theblog/files/2011/10/shot_000019.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;565&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hushvine.com/theblog/files/2011/10/shot_000019.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-32&#34; title=&#34;shot_000019&#34; src=&#34;https://hushvine.com/theblog/files/2011/10/shot_000019.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;565&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Load it up over on &lt;a href=&#34;http://dwsmobile.hushvine.com&#34;&gt;http://dwsmobile.hushvine.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Load it up over on &lt;a href=&#34;https://dwsmobile.hushvine.com&#34;&gt;https://dwsmobile.hushvine.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;You can tweet from it too. Feel free to report on success with other devices by using that facility 🙂&lt;/p&gt;
 
@@ -48,63 +48,63 @@
     
     <item>
       <title>HushVine Web and Android App for Dublin Web Summit #DWS7 Tweets released</title>
-      <link>http://blog.hushvine.com/2011/10/26/hushvine-web-and-android-app-for-dublin-web-summit-dws7-tweets-released/</link>
+      <link>https://hushvine.com/2011/10/26/hushvine-web-and-android-app-for-dublin-web-summit-dws7-tweets-released/</link>
       <pubDate>Wed, 26 Oct 2011 13:43:48 +0000</pubDate>
       
-      <guid>http://blog.hushvine.com/2011/10/26/hushvine-web-and-android-app-for-dublin-web-summit-dws7-tweets-released/</guid>
+      <guid>https://hushvine.com/2011/10/26/hushvine-web-and-android-app-for-dublin-web-summit-dws7-tweets-released/</guid>
       <description>&lt;p&gt;We weren&amp;#8217;t joking when we said today was a big day &amp;#8211; and we&amp;#8217;re not even half way through with the announcements!&lt;/p&gt;
 
-&lt;p&gt;Our second Android App is for &lt;a href=&#34;http://www.dublinwebsummit.com&#34;&gt;Dublin Web Summit&lt;/a&gt; on Twitter. You just know Twitter is the place where all the discussion of #DWS7 will happen and we want to make it easier for you to see all those tweets.&lt;/p&gt;
+&lt;p&gt;Our second Android App is for &lt;a href=&#34;https://www.dublinwebsummit.com&#34;&gt;Dublin Web Summit&lt;/a&gt; on Twitter. You just know Twitter is the place where all the discussion of #DWS7 will happen and we want to make it easier for you to see all those tweets.&lt;/p&gt;
 
 &lt;p&gt;Like our #aras11 App, it does far more than track a simple hashtag and we&amp;#8217;ve been dog-fooding it too to stay abreast of everything that&amp;#8217;s been happening in the run up to DWS.&lt;/p&gt;
 
 &lt;p&gt;It&amp;#8217;s up on the &lt;a href=&#34;https://market.android.com/details?id=com.feedhenry.fhaGg4WxVjNy5U21VpR6YtIKmn&#34;&gt;Android Market now here&lt;/a&gt;, or you can just search for &amp;#8220;dublin web summit&amp;#8221; in the Market on your Android phone.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://hushvine.com/theblog/files/2011/10/dws_splash.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-27&#34; title=&#34;dws_splash&#34; src=&#34;http://hushvine.com/theblog/files/2011/10/dws_splash.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;480&#34; srcset=&#34;http://hushvine.com/theblog/files/2011/10/dws_splash.png 320w, http://hushvine.com/theblog/files/2011/10/dws_splash-200x300.png 200w&#34; sizes=&#34;(max-width: 320px) 100vw, 320px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hushvine.com/theblog/files/2011/10/dws_splash.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-27&#34; title=&#34;dws_splash&#34; src=&#34;https://hushvine.com/theblog/files/2011/10/dws_splash.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;480&#34; srcset=&#34;https://hushvine.com/theblog/files/2011/10/dws_splash.png 320w, https://hushvine.com/theblog/files/2011/10/dws_splash-200x300.png 200w&#34; sizes=&#34;(max-width: 320px) 100vw, 320px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://hushvine.com/theblog/files/2011/10/shot_000011.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-29&#34; title=&#34;shot_000011&#34; src=&#34;http://hushvine.com/theblog/files/2011/10/shot_000011.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;480&#34; srcset=&#34;http://hushvine.com/theblog/files/2011/10/shot_000011.png 320w, http://hushvine.com/theblog/files/2011/10/shot_000011-200x300.png 200w&#34; sizes=&#34;(max-width: 320px) 100vw, 320px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hushvine.com/theblog/files/2011/10/shot_000011.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-29&#34; title=&#34;shot_000011&#34; src=&#34;https://hushvine.com/theblog/files/2011/10/shot_000011.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;480&#34; srcset=&#34;https://hushvine.com/theblog/files/2011/10/shot_000011.png 320w, https://hushvine.com/theblog/files/2011/10/shot_000011-200x300.png 200w&#34; sizes=&#34;(max-width: 320px) 100vw, 320px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to &lt;a href=&#34;https://twitter.com/#!/paddycosgrave&#34;&gt;Paddy&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/#!/hidaire&#34;&gt;Daire&lt;/a&gt; for facilitating the release of the App on such short notice. We will have something 10x more powerful for the next DWS when HushVine is fully launched.&lt;/p&gt;
 
-&lt;p&gt;All HushVine mobile Apps are powered by the awesome &lt;a href=&#34;http://www.feedhenry.com&#34;&gt;FeedHenry&lt;/a&gt; cross-platform client-server system.&lt;/p&gt;
+&lt;p&gt;All HushVine mobile Apps are powered by the awesome &lt;a href=&#34;https://www.feedhenry.com&#34;&gt;FeedHenry&lt;/a&gt; cross-platform client-server system.&lt;/p&gt;
 
 &lt;p&gt;We will have a mobile-optimised site for users of iPhone, Blackberry, Nokia, WebOS etc later this afternoon. It’ll show exactly the same information. There just wasn’t enough time to get apps done for those platforms too. Watch out for it on Twitter!&lt;/p&gt;
 
-&lt;p&gt;But that&amp;#8217;s not all, they said in their best Ronco and Shogun Knives voice. No, in addition to an Android App, and a mobile site, we&amp;#8217;ll also throw in a full web tracker over on Web2Ireland.org. The same tweets but on the big screen and the ability for you to tweet. &lt;a href=&#34;http://www.web2ireland.org/2011/10/26/follow-all-the-dublin-web-summit-dws7-tweets-here-on-web2ireland/&#34;&gt;Check it out&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;But that&amp;#8217;s not all, they said in their best Ronco and Shogun Knives voice. No, in addition to an Android App, and a mobile site, we&amp;#8217;ll also throw in a full web tracker over on Web2Ireland.org. The same tweets but on the big screen and the ability for you to tweet. &lt;a href=&#34;https://www.web2ireland.org/2011/10/26/follow-all-the-dublin-web-summit-dws7-tweets-here-on-web2ireland/&#34;&gt;Check it out&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>HushVine Race for The Áras Android App Released #aras11</title>
-      <link>http://blog.hushvine.com/2011/10/26/hushvine-race-for-the-aras-android-app-released-aras11/</link>
+      <link>https://hushvine.com/2011/10/26/hushvine-race-for-the-aras-android-app-released-aras11/</link>
       <pubDate>Wed, 26 Oct 2011 12:51:55 +0000</pubDate>
       
-      <guid>http://blog.hushvine.com/2011/10/26/hushvine-race-for-the-aras-android-app-released-aras11/</guid>
-      <description>&lt;p&gt;As we said in our first post, today is a big day for us. We decided 2 weeks ago to build some sample Widgets and Android Apps for all of the happenings this week. They are calling cards for our upcoming &lt;a href=&#34;http://hushvine.com&#34;&gt;HushVine Platform&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://hushvine.com/2011/10/26/hushvine-race-for-the-aras-android-app-released-aras11/</guid>
+      <description>&lt;p&gt;As we said in our first post, today is a big day for us. We decided 2 weeks ago to build some sample Widgets and Android Apps for all of the happenings this week. They are calling cards for our upcoming &lt;a href=&#34;https://hushvine.com&#34;&gt;HushVine Platform&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;First out of the blocks is our Irish Presidential Election Twitter Tracking App. This simple but incredibly useful App enables you to follow all the buzz around #aras11 on Twitter. But it does far more than track a simple hashtag and we&amp;#8217;ve been dog-fooding it all week to stay abreast of everything that&amp;#8217;s been happening in the run up to the election.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://hushvine.com/theblog/files/2011/10/shot_000016.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-14&#34; title=&#34;shot_000016&#34; src=&#34;http://hushvine.com/theblog/files/2011/10/shot_000016.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;480&#34; srcset=&#34;http://hushvine.com/theblog/files/2011/10/shot_000016.png 320w, http://hushvine.com/theblog/files/2011/10/shot_000016-200x300.png 200w&#34; sizes=&#34;(max-width: 320px) 100vw, 320px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hushvine.com/theblog/files/2011/10/shot_000016.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-14&#34; title=&#34;shot_000016&#34; src=&#34;https://hushvine.com/theblog/files/2011/10/shot_000016.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;480&#34; srcset=&#34;https://hushvine.com/theblog/files/2011/10/shot_000016.png 320w, https://hushvine.com/theblog/files/2011/10/shot_000016-200x300.png 200w&#34; sizes=&#34;(max-width: 320px) 100vw, 320px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://hushvine.com/theblog/files/2011/10/shot_000017.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-15&#34; title=&#34;shot_000017&#34; src=&#34;http://hushvine.com/theblog/files/2011/10/shot_000017.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;480&#34; srcset=&#34;http://hushvine.com/theblog/files/2011/10/shot_000017.png 320w, http://hushvine.com/theblog/files/2011/10/shot_000017-200x300.png 200w&#34; sizes=&#34;(max-width: 320px) 100vw, 320px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hushvine.com/theblog/files/2011/10/shot_000017.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-15&#34; title=&#34;shot_000017&#34; src=&#34;https://hushvine.com/theblog/files/2011/10/shot_000017.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;480&#34; srcset=&#34;https://hushvine.com/theblog/files/2011/10/shot_000017.png 320w, https://hushvine.com/theblog/files/2011/10/shot_000017-200x300.png 200w&#34; sizes=&#34;(max-width: 320px) 100vw, 320px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;You don&amp;#8217;t need a Twitter account to use it. It&amp;#8217;s ideal for all those politics fans out there who know there is huge value in Twitter but have been unable to make good use of it until now.&lt;/p&gt;
 
 &lt;p&gt;It&amp;#8217;s up on the &lt;a href=&#34;https://market.android.com/details?id=com.feedhenry.fheWmhpQ34shHkM4CRXAyMShZ5&#34;&gt;Android Market here&lt;/a&gt;, or you can just search for &amp;#8220;hushvine aras&amp;#8221; in the Market on your Android phone.&lt;/p&gt;
 
-&lt;p&gt;All HushVine mobile Apps are powered by the awesome &lt;a href=&#34;http://www.feedhenry.com&#34;&gt;FeedHenry&lt;/a&gt; cross-platform client-server system.&lt;/p&gt;
+&lt;p&gt;All HushVine mobile Apps are powered by the awesome &lt;a href=&#34;https://www.feedhenry.com&#34;&gt;FeedHenry&lt;/a&gt; cross-platform client-server system.&lt;/p&gt;
 
-&lt;p&gt;We will have a mobile-optimised site for users of iPhone, Blackberry, Nokia, WebOS etc later this afternoon. It&amp;#8217;ll show exactly the same information. There just wasn&amp;#8217;t enough time to get apps done for those platforms too. Watch out for it on &lt;a href=&#34;http://twitter.com/hushvine&#34;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;We will have a mobile-optimised site for users of iPhone, Blackberry, Nokia, WebOS etc later this afternoon. It&amp;#8217;ll show exactly the same information. There just wasn&amp;#8217;t enough time to get apps done for those platforms too. Watch out for it on &lt;a href=&#34;https://twitter.com/hushvine&#34;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello from HushVine</title>
-      <link>http://blog.hushvine.com/2011/10/26/hello-from-hushvine/</link>
+      <link>https://hushvine.com/2011/10/26/hello-from-hushvine/</link>
       <pubDate>Wed, 26 Oct 2011 08:25:59 +0000</pubDate>
       
-      <guid>http://blog.hushvine.com/2011/10/26/hello-from-hushvine/</guid>
-      <description>&lt;p&gt;We&amp;#8217;re still quite a bit away from launching the &lt;a href=&#34;http://hushvine.com&#34;&gt;HushVine Platform&lt;/a&gt; but we have so much to say, we&amp;#8217;ve decided to start the blog now.&lt;/p&gt;
+      <guid>https://hushvine.com/2011/10/26/hello-from-hushvine/</guid>
+      <description>&lt;p&gt;We&amp;#8217;re still quite a bit away from launching the &lt;a href=&#34;https://hushvine.com&#34;&gt;HushVine Platform&lt;/a&gt; but we have so much to say, we&amp;#8217;ve decided to start the blog now.&lt;/p&gt;
 
 &lt;p&gt;Today is a big day for us. We&amp;#8217;re releasing a few &amp;#8220;calling cards&amp;#8221;. They are the merest hint of what will be possible with the full platform but they are all still incredibly useful. We hope you enjoy.&lt;/p&gt;
 

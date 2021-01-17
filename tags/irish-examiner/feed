@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>HushVine Blog</title>
-    <link>http://blog.hushvine.com/tags/irish-examiner/feed/</link>
+    <link>https://hushvine.com/tags/irish-examiner/feed/</link>
     <description>Recent content on HushVine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://blog.hushvine.com/tags/irish-examiner/feed/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hushvine.com/tags/irish-examiner/feed/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HushVine Powering Twitter Coverage of #budget12 on The Irish Examiner</title>
-      <link>http://blog.hushvine.com/2011/12/02/hushvine-powering-twitter-coverage-of-budget12-on-the-irish-examiner/</link>
+      <link>https://hushvine.com/2011/12/02/hushvine-powering-twitter-coverage-of-budget12-on-the-irish-examiner/</link>
       <pubDate>Fri, 02 Dec 2011 14:13:37 +0000</pubDate>
       
-      <guid>http://blog.hushvine.com/2011/12/02/hushvine-powering-twitter-coverage-of-budget12-on-the-irish-examiner/</guid>
-      <description>&lt;p&gt;Back in October we had great success with powering the Twitter coverage of both #aras11 and #DWS7. In particular, our solution on the &lt;a href=&#34;http://irishexaminer.com&#34;&gt;irishexaminer.com&lt;/a&gt; site worked beautifully. So we were delighted when they contacted us about doing a solution for next Monday&amp;#8217;s/Tuesday&amp;#8217;s Irish Budget too.&lt;/p&gt;
+      <guid>https://hushvine.com/2011/12/02/hushvine-powering-twitter-coverage-of-budget12-on-the-irish-examiner/</guid>
+      <description>&lt;p&gt;Back in October we had great success with powering the Twitter coverage of both #aras11 and #DWS7. In particular, our solution on the &lt;a href=&#34;https://irishexaminer.com&#34;&gt;irishexaminer.com&lt;/a&gt; site worked beautifully. So we were delighted when they contacted us about doing a solution for next Monday&amp;#8217;s/Tuesday&amp;#8217;s Irish Budget too.&lt;/p&gt;
 
-&lt;p&gt;We are now live on &lt;a href=&#34;http://budget.irishexaminer.com/&#34;&gt;budget.irishexaminer.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We are now live on &lt;a href=&#34;https://budget.irishexaminer.com/&#34;&gt;budget.irishexaminer.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://budget.irishexaminer.com/&#34;&gt;&lt;img class=&#34;size-full wp-image-37 aligncenter&#34; src=&#34;http://blog.hushvine.com/files/2011/12/examiner_budget_hushvine_02.png&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;714&#34; srcset=&#34;http://hushvine.com/theblog/files/2011/12/examiner_budget_hushvine_02.png 450w, http://hushvine.com/theblog/files/2011/12/examiner_budget_hushvine_02-189x300.png 189w&#34; sizes=&#34;(max-width: 450px) 100vw, 450px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://budget.irishexaminer.com/&#34;&gt;&lt;img class=&#34;size-full wp-image-37 aligncenter&#34; src=&#34;https://hushvine.com/files/2011/12/examiner_budget_hushvine_02.png&#34; alt=&#34;&#34; width=&#34;450&#34; height=&#34;714&#34; srcset=&#34;https://hushvine.com/theblog/files/2011/12/examiner_budget_hushvine_02.png 450w, https://hushvine.com/theblog/files/2011/12/examiner_budget_hushvine_02-189x300.png 189w&#34; sizes=&#34;(max-width: 450px) 100vw, 450px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;As before, our system is pulling in a wide range of Tweets, not just some dumb hashtag, then removing the irrelevant ones and giving you a rich Twitter experience as you read the news stories on &lt;a href=&#34;http://budget.irishexaminer.com/&#34;&gt;The Irish Examiner site&lt;/a&gt;. Of course you can Tweet directly from all of the pages too.&lt;/p&gt;
+&lt;p&gt;As before, our system is pulling in a wide range of Tweets, not just some dumb hashtag, then removing the irrelevant ones and giving you a rich Twitter experience as you read the news stories on &lt;a href=&#34;https://budget.irishexaminer.com/&#34;&gt;The Irish Examiner site&lt;/a&gt;. Of course you can Tweet directly from all of the pages too.&lt;/p&gt;
 
 &lt;p&gt;We&amp;#8217;ll be releasing the next version of the platform in a few weeks and it will provide an even more intelligent, controllable and rich experience both for users and media businesses.&lt;/p&gt;
 </description>

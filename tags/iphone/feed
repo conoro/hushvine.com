@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>HushVine Blog</title>
-    <link>http://blog.hushvine.com/tags/iphone/feed/</link>
+    <link>https://hushvine.com/tags/iphone/feed/</link>
     <description>Recent content on HushVine Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://blog.hushvine.com/tags/iphone/feed/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hushvine.com/tags/iphone/feed/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Track #DWS7 on iPhone and other smartphones too</title>
-      <link>http://blog.hushvine.com/2011/10/27/track-dws7-on-iphone-and-other-smartphones-too/</link>
+      <link>https://hushvine.com/2011/10/27/track-dws7-on-iphone-and-other-smartphones-too/</link>
       <pubDate>Thu, 27 Oct 2011 06:50:34 +0000</pubDate>
       
-      <guid>http://blog.hushvine.com/2011/10/27/track-dws7-on-iphone-and-other-smartphones-too/</guid>
-      <description>&lt;p&gt;The approval time for the App Store means it&amp;#8217;s impossible to do an impromptu app on iOS like our Android one for &lt;a href=&#34;http://www.dublinwebsummit.com&#34;&gt;Dublin Web Summit&lt;/a&gt;. But we didn&amp;#8217;t want to leave all other smartphone users out in the cold so we&amp;#8217;ve created a mobile-friendly micro-site. It works on Android, iPhone 4, iPhone 3, iPad and some Blackberrys. We&amp;#8217;re still waiting for confirmation on Nokia smartphones.&lt;/p&gt;
+      <guid>https://hushvine.com/2011/10/27/track-dws7-on-iphone-and-other-smartphones-too/</guid>
+      <description>&lt;p&gt;The approval time for the App Store means it&amp;#8217;s impossible to do an impromptu app on iOS like our Android one for &lt;a href=&#34;https://www.dublinwebsummit.com&#34;&gt;Dublin Web Summit&lt;/a&gt;. But we didn&amp;#8217;t want to leave all other smartphone users out in the cold so we&amp;#8217;ve created a mobile-friendly micro-site. It works on Android, iPhone 4, iPhone 3, iPad and some Blackberrys. We&amp;#8217;re still waiting for confirmation on Nokia smartphones.&lt;/p&gt;
 
 &lt;p&gt;Remember, this is doing a lot more than showing you #DWS7 hashtag tweets! Just check this screenshot.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://hushvine.com/theblog/files/2011/10/shot_000019.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-32&#34; title=&#34;shot_000019&#34; src=&#34;http://hushvine.com/theblog/files/2011/10/shot_000019.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;565&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hushvine.com/theblog/files/2011/10/shot_000019.png&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-32&#34; title=&#34;shot_000019&#34; src=&#34;https://hushvine.com/theblog/files/2011/10/shot_000019.png&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;565&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Load it up over on &lt;a href=&#34;http://dwsmobile.hushvine.com&#34;&gt;http://dwsmobile.hushvine.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Load it up over on &lt;a href=&#34;https://dwsmobile.hushvine.com&#34;&gt;https://dwsmobile.hushvine.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;You can tweet from it too. Feel free to report on success with other devices by using that facility 🙂&lt;/p&gt;
 
